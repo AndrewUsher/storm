@@ -1,0 +1,9 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "Component based library for JS applications",
+  "main": "index.js",
+  "repository": "https://github.com/andrewusher/storm",
+  "author": "Andrew Usher <andrewusher00@gmail.com>",
+  "license": "MIT"
+}
